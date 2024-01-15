@@ -1,0 +1,53 @@
+#login, #register{
+    background-image: url('../images/background.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+#bg2{
+    background-image: url('../images/background2.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 789px;
+}
+
+#icons{
+    font-size: 22px;
+}
+
+#notifs{
+    background-image: url('../images/background3.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 789px;
+    width: 100%;
+}
+
+.links{
+    color: white;
+}
+
+Label,#text{
+    color: #c1c6c8;
+}
+
+#footer-text{
+    color: #6d7072;
+    font-size: 12px;
+}
+
+#header, #footer{
+    background-color: #16181b;
+}
+
+.user_info{
+    font-size: 18px;
+    color: white;
+}
+
+#offer_trade{
+    height: 100vh;
+}
